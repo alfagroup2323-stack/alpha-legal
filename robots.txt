@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alfagroup2323-stack.github.io/alpha-legal/sitemap.xml
+
